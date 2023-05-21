@@ -55,3 +55,7 @@ tr {
 .card {
   width: 18rem;
 }
+
+.invert {
+  filter: invert(100%);
+}
